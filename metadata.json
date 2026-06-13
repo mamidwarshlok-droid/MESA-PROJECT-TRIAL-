@@ -1,0 +1,6 @@
+{
+  "name": "WanderWise",
+  "description": "An AI-powered travel companion landing page and dashboard application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
